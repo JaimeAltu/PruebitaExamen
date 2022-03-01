@@ -34,5 +34,7 @@ public class Pruebita {
 	public void setApellido(String apellido) {
 		this.apellido = apellido;
 	}
-	
+	public void generarDevelop() {
+		
+	}
 }
